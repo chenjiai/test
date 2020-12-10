@@ -33,6 +33,8 @@ public class AppTest
      */
     public void testApp1()
     {
+    	App app = new App();
+    	app.getCount();
         assertTrue( true );
     }
     /**
